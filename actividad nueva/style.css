@@ -1,0 +1,24 @@
+h1.cafeteria {
+    color:brown;
+    position: relative;
+    left:  30%;
+    
+}
+p.carta {
+    position: relative;
+    bottom: -80px; 
+    
+
+
+}
+p.cafe{
+    position: relative;
+    right: -400px;
+}
+p.contacto{
+    position: relative;
+    right: -800px;
+}
+html{
+    background-color: rgba(78, 36, 36, 0.452);
+}
